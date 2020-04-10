@@ -1,0 +1,56 @@
+Continent,Code,Indicator Name,Indicator Code,Year,MortalityRate,MaleLifeExpectancy,FemaleLifeExpectancy,LifeExpectancy,MeanofSchooling
+Central African Republic,CAF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1980,121.3,46.475,51.18,48.21,1.02
+Central African Republic,CAF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1990,116.9,46.6,50.99,49.104,2.06
+Central African Republic,CAF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,111.2,42.66,45.14,44.19,2.9
+Central African Republic,CAF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,101.4,46.2,49.02,47.312,3.6
+Central African Republic,CAF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,84.5,51.49,53.21,52.805,4.3
+Middle East & North Africa,MEA,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1980,49.9,56.184,60.549,58.332,2.06
+Middle East & North Africa,MEA,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1990,49.9,62.233,66.982,64.572,3.51
+Middle East & North Africa,MEA,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,34,66.241,71.053,68.602,4.8
+Middle East & North Africa,MEA,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,22.6,66.178,72.613,70.349,6.5
+Middle East & North Africa,MEA,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,18.3,69.212,74.231,71.825,8.3
+Sub-Saharan Africa,SSF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1980,108.3,45.995,49.163,38.962,1.1
+Sub-Saharan Africa,SSF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1990,107.4,47.299,50.804,43.538,3.2
+Sub-Saharan Africa,SSF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,92.4,48.079,51.304,49.928,5.2
+Sub-Saharan Africa,SSF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,65.4,54.67,57.664,57.333,5.2
+Sub-Saharan Africa,SSF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,52.7,59.231,64.212,62.024,6.2
+East Asia & Pacific,EAS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1980,46.2,61.992,70.47,66.186,7.09
+East Asia & Pacific,EAS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1990,43.3,67.4,75.869,69.896,9.11
+East Asia & Pacific,EAS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,31.4,72.278,79.668,77.31,10.6
+East Asia & Pacific,EAS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,18.1,77.016,83.65,81.31,11.8
+East Asia & Pacific,EAS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,12.5,78.665,84.957,81.231,12.1
+Europe & Central Asia,ECS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1980,29.1,67.22,75.19,71.302,6.19
+Europe & Central Asia,ECS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1990,24.9,68.768,76.732,72.808,7.29
+Europe & Central Asia,ECS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,17.8,69.162,77.657,73.372,8.6
+Europe & Central Asia,ECS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,10.6,72.544,80.033,76.265,9.7
+Europe & Central Asia,ECS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,7.5,74.281,81.133,78.425,10.2
+South Asia,SAS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1980,102.3,53.784,53.941,53.814,1.87
+South Asia,SAS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1990,91.8,57.608,58.261,57.865,2.96
+South Asia,SAS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,69.1,61.789,63.438,62.505,4.4
+South Asia,SAS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,48.5,65.497,67.84,66.693,5.4
+South Asia,SAS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,34.5,66.857,69.882,69.416,6.4
+Central Europe and the Baltics,CEB,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1980,19.2,69.514,76,72.958,7.63
+Central Europe and the Baltics,CEB,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1990,16.16,72.058,78.556,75.488,8.77
+Central Europe and the Baltics,CEB,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,10.3,74.811,80.93,77.982,11.2
+Central Europe and the Baltics,CEB,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,6,77.495,82.66,80.124,13.8
+Central Europe and the Baltics,CEB,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,4.1,78.445,83.233,81.18,14.1
+European Union,EUU,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1980,13.21,70.058,78.213,74.204,5.96
+European Union,EUU,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1990,9.9,72.508,80.78,76.757,7.33
+European Union,EUU,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,5.8,75.074,82.66,79.008,9.8
+European Union,EUU,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,4.07,78.088,84.664,81.508,10.9
+European Union,EUU,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,3.31,79.378,85.334,82.541,11.5
+Latin America & Caribbean,LCN,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1980,47.2,61.04,67.06,64.328,5.26
+Latin America & Caribbean,LCN,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1990,43.3,64.249,70.958,68.065,6.47
+Latin America & Caribbean,LCN,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,27.2,68.033,74.745,71.5,7.3
+Latin America & Caribbean,LCN,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,18.3,70.772,77.411,73.977,8.9
+Latin America & Caribbean,LCN,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,14,71.948,78.462,75.327,9.8
+North America,NAC,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1980,13.4,70.218,77.657,73.91,11.94
+North America,NAC,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1990,9.2,71.748,78.724,75.246,12.32
+North America,NAC,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,7,74.061,79.492,76.812,12.7
+North America,NAC,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,6.1,76.072,80.953,78.652,13.2
+North America,NAC,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,5.5,76.901,81.567,78.851,13.4
+Australia,AUS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1980,8.3,70.983,77.96,74.39,10.79
+Australia,AUS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1990,7.6,73.879,80.036,76.933,11.2
+Australia,AUS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,5.1,76.917,82.255,79.592,11.9
+Australia,AUS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,4,79.725,84.114,81.944,12.4
+Australia,AUS,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,3.1,80.749,84.727,83.281,12.9
