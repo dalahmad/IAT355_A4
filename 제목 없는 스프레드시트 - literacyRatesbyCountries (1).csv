@@ -1,0 +1,1499 @@
+Country,Code,Year,LiteracyRates,Literate
+Canada,CAN,1974,93.1231,Literate
+Bolivia,BOL,1975,63,Illiterate
+Burkina Faso,BFA,1975,8.6851501,Illiterate
+Colombia,COL,1975,81,Literate
+Costa Rica,CRI,1975,90,Literate
+Cuba,CUB,1975,91,Literate
+Dominican Republic,DOM,1975,70,Illiterate
+Ecuador,ECU,1975,78,Literate
+El Salvador,SLV,1975,62,Illiterate
+Guatemala,GTM,1975,49,Illiterate
+Haiti,HTI,1975,26,Illiterate
+Honduras,HND,1975,58,Illiterate
+Kuwait,KWT,1975,59.564388,Illiterate
+Nicaragua,NIC,1975,59,Illiterate
+Panama,PAN,1975,82,Literate
+Paraguay,PRY,1975,83,Literate
+Turkey,TUR,1975,61.627682,Illiterate
+United Arab Emirates,ARE,1975,53.514881,Illiterate
+Uruguay,URY,1975,93.861069,Literate
+Venezuela,VEN,1975,80,Literate
+Bolivia,BOL,1976,63.208149,Illiterate
+Cameroon,CMR,1976,41.216209,Illiterate
+Colombia,COL,1976,82,Literate
+Costa Rica,CRI,1976,90,Literate
+Cuba,CUB,1976,91,Literate
+Dominican Republic,DOM,1976,71,Illiterate
+Ecuador,ECU,1976,79,Literate
+Egypt,EGY,1976,38.196758,Illiterate
+Guatemala,GTM,1976,50,Illiterate
+Haiti,HTI,1976,27,Illiterate
+Honduras,HND,1976,58,Illiterate
+Iran,IRN,1976,36.518398,Illiterate
+Mali,MLI,1976,9.4338102,Illiterate
+New Caledonia,NCL,1976,91.300369,Literate
+Nicaragua,NIC,1976,59,Illiterate
+Panama,PAN,1976,83,Literate
+Paraguay,PRY,1976,84,Literate
+Swaziland,SWZ,1976,55.325039,Illiterate
+Tonga,TON,1976,99.592461,Literate
+Venezuela,VEN,1976,81,Literate
+Colombia,COL,1977,82,Literate
+Costa Rica,CRI,1977,91,Literate
+Cuba,CUB,1977,92,Literate
+Dominican Republic,DOM,1977,72,Illiterate
+Ecuador,ECU,1977,80,Literate
+French Polynesia,PYF,1977,98,Literate
+Guatemala,GTM,1977,51,Illiterate
+Haiti,HTI,1977,28,Illiterate
+Honduras,HND,1977,59,Illiterate
+Maldives,MDV,1977,82.299957,Literate
+Nicaragua,NIC,1977,60,Illiterate
+Panama,PAN,1977,83,Literate
+Paraguay,PRY,1977,84,Literate
+Russia,RUS,1977,97.12312312,Literate
+Venezuela,VEN,1977,82,Literate
+Colombia,COL,1978,83,Literate
+Costa Rica,CRI,1978,91,Literate
+Cuba,CUB,1978,92,Literate
+Dominican Republic,DOM,1978,73,Illiterate
+Ecuador,ECU,1978,80,Literate
+Guatemala,GTM,1978,52,Illiterate
+Haiti,HTI,1978,29,Illiterate
+Honduras,HND,1978,60,Illiterate
+Nicaragua,NIC,1978,60,Illiterate
+Panama,PAN,1978,84,Literate
+Paraguay,PRY,1978,85,Literate
+Poland,POL,1978,98.742737,Literate
+Rwanda,RWA,1978,38.243431,Illiterate
+Venezuela,VEN,1978,83,Literate
+Afghanistan,AFG,1979,28.168041,Illiterate
+Albania,ALB,1979,87.553902,Literate
+Algeria,DZA,1979,69.608398,Literate
+Angola,AGO,1979,61.164162,Illiterate
+Argentina,ARG,1979,88.089973,Literate
+Armenia,ARM,1979,89.768417,Literate
+Aruba,ABW,1979,87.5242,Literate
+Azerbaijan,AZE,1979,89.80526,Literate
+Bahrain,BHR,1979,85.717262,Literate
+Bangladesh,BGD,1979,51.493832,Illiterate
+Belarus,BLR,1979,89.722038,Literate
+Belize,BLZ,1979,72.776817,Literate
+Benin,BEN,1979,28.44714,Illiterate
+Bhutan,BTN,1979,53.906818,Illiterate
+Bolivia,BOL,1979,85.141922,Literate
+Botswana,BWA,1979,78.224411,Literate
+Brazil,BRA,1979,82.586807,Literate
+Brunei,BRN,1979,86.656532,Literate
+Bulgaria,BGR,1979,88.38858,Literate
+Burkina Faso,BFA,1979,27.7467,Illiterate
+Burundi,BDI,1979,75.496094,Literate
+Cambodia,KHM,1979,68.34594,Literate
+Cameroon,CMR,1979,64.98558,Illiterate
+Canada,CAN,1979,89,Literate
+Cape Verde,CPV,1979,78.465424,Literate
+Chile,CHL,1979,86.627548,Literate
+Colombia,COL,1979,84.577057,Literate
+Comoros,COM,1979,68.13739,Literate
+Congo,COG,1979,69.311172,Literate
+Costa Rica,CRI,1979,87.647247,Literate
+Cote d'Ivoire,CIV,1979,33.26532,Illiterate
+Croatia,HRV,1979,89.272591,Literate
+Cuba,CUB,1979,89.710716,Literate
+Cyprus,CYP,1979,89.059776,Literate
+Democratic Republic of Congo,COD,1979,67.221672,Literate
+Dominican Republic,DOM,1979,82.465424,Literate
+Ecuador,ECU,1979,84.515472,Literate
+Egypt,EGY,1979,65.842621,Literate
+El Salvador,SLV,1979,77.648216,Literate
+Equatorial Guinea,GNQ,1979,85.195663,Literate
+Eritrea,ERI,1979,63.845253,Illiterate
+Estonia,EST,1979,89.823509,Literate
+Ethiopia,ETH,1979,39.031521,Illiterate
+Gabon,GAB,1979,73.237877,Literate
+Gambia,GMB,1979,45.572762,Illiterate
+Georgia,GEO,1979,89.759621,Literate
+Ghana,GHA,1979,66.575897,Literate
+Greece,GRC,1979,85.29287,Literate
+Guam,GUM,1979,89.78904,Literate
+Guatemala,GTM,1979,69.074211,Literate
+Guinea,GIN,1979,20.47279,Illiterate
+Guinea-Bissau,GNB,1979,49.77285,Illiterate
+Guyana,GUY,1979,77.535316,Literate
+Haiti,HTI,1979,50.68935,Illiterate
+Honduras,HND,1979,78.424583,Literate
+Hong Kong,HKG,1979,88.2,Literate
+Hungary,HUN,1979,89.380882,Literate
+Iceland,ISL,1979,89,Literate
+India,IND,1979,62.225304,Illiterate
+Indonesia,IDN,1979,85.437683,Literate
+Iran,IRN,1979,77.172531,Literate
+Iraq,IRQ,1979,69.721764,Literate
+Italy,ITA,1979,89.015793,Literate
+Jamaica,JAM,1979,78.499901,Literate
+Jordan,JOR,1979,88.014351,Literate
+Kazakhstan,KAZ,1979,89.787849,Literate
+Kenya,KEN,1979,68.023399,Literate
+Kuwait,KWT,1979,86.117706,Literate
+Kyrgyzstan,KGZ,1979,89.50132,Literate
+Laos,LAO,1979,69.867462,Literate
+Latvia,LVA,1979,89.892693,Literate
+Lebanon,LBN,1979,84.051102,Literate
+Lesotho,LSO,1979,69.360931,Literate
+Liberia,LBR,1979,37.60014,Illiterate
+Libya,LBY,1979,81.38887,Literate
+Lithuania,LTU,1979,89.82328,Literate
+Macao,MAC,1979,86.2276,Literate
+Mexico,MEX,1979,84.545593,Literate
+Moldova,MDA,1979,89.244392,Literate
+Mongolia,MNG,1979,88.367638,Literate
+Montenegro,MNE,1979,88.719948,Literate
+Morocco,MAR,1979,61.710548,Illiterate
+Mozambique,MOZ,1979,48.836552,Illiterate
+Myanmar,MMR,1979,83.09005,Literate
+Namibia,NAM,1979,80.820503,Literate
+Nepal,NPL,1979,54.663643,Illiterate
+New Caledonia,NCL,1979,86.93782,Literate
+Nicaragua,NIC,1979,72.471848,Literate
+Niger,NER,1979,9.1026,Illiterate
+Nigeria,NGA,1979,49.568081,Illiterate
+North Korea,PRK,1979,89.999237,Literate
+Oman,OMN,1979,83.971649,Literate
+Pakistan,PAK,1979,46.440311,Illiterate
+Palau,PLW,1979,89.523972,Literate
+Palestine,PSE,1979,86.668037,Literate
+Panama,PAN,1979,85.038231,Literate
+Papua New Guinea,PNG,1979,53.433491,Illiterate
+Paraguay,PRY,1979,85.53611,Literate
+Peru,PER,1979,84.374352,Literate
+Philippines,PHL,1979,86.618027,Literate
+Poland,POL,1979,89.787422,Literate
+Portugal,PRT,1979,85.428108,Literate
+Puerto Rico,PRI,1979,83.329422,Literate
+Qatar,QAT,1979,87.757088,Literate
+Romania,ROU,1979,88.757027,Literate
+Russia,RUS,1979,89.719566,Literate
+Rwanda,RWA,1979,61.2435,Illiterate
+Samoa,WSM,1979,89.015007,Literate
+Sao Tome and Principe,STP,1979,81.747108,Literate
+Saudi Arabia,SAU,1979,84.842369,Literate
+Senegal,SEN,1979,45.624851,Illiterate
+Serbia,SRB,1979,88.002892,Literate
+Seychelles,SYC,1979,85.321083,Literate
+Sierra Leone,SLE,1979,38.4319,Illiterate
+Singapore,SGP,1979,86.774628,Literate
+Slovenia,SVN,1979,89.71476,Literate
+South Africa,ZAF,1979,84.597939,Literate
+South Sudan,SSD,1979,21.97625,Illiterate
+Spain,ESP,1979,88.11451,Literate
+Sri Lanka,LKA,1979,82.614166,Literate
+Sudan,SDN,1979,48.601318,Illiterate
+Suriname,SUR,1979,85.538986,Literate
+Swaziland,SWZ,1979,77.470192,Literate
+Syria,SYR,1979,76.303932,Literate
+Tajikistan,TJK,1979,89.781052,Literate
+Tanzania,TZA,1979,70.359497,Literate
+Thailand,THA,1979,83.983017,Literate
+Timor,TLS,1979,54.066139,Illiterate
+Togo,TGO,1979,56.53759,Illiterate
+Tonga,TON,1979,89.397858,Literate
+Trinidad and Tobago,TTO,1979,88.969582,Literate
+Tunisia,TUN,1979,71.054192,Literate
+Turkey,TUR,1979,85.688103,Literate
+Uruguay,URY,1979,88.442101,Literate
+Uzbekistan,UZB,1979,89.995193,Literate
+Vanuatu,VUT,1979,75.058678,Literate
+Venezuela,VEN,1979,85.399246,Literate
+Vietnam,VNM,1979,84.514267,Literate
+Yemen,YEM,1979,59.961952,Illiterate
+Zambia,ZMB,1979,75.117264,Literate
+Zimbabwe,ZWE,1979,76.873482,Literate
+American Samoa,ASM,1980,97.344162,Literate
+Argentina,ARG,1980,93.912857,Literate
+Brazil,BRA,1980,74.586731,Illiterate
+Central African Republic,CAF,1980,18.23617,Illiterate
+Chad,TCD,1980,30.018242,Illiterate
+Chile,CHL,1980,92,Literate
+China,CHN,1980,65.505089,Illiterate
+Colombia,COL,1980,84,Literate
+Comoros,COM,1980,47.919231,Illiterate
+Costa Rica,CRI,1980,92,Literate
+Cuba,CUB,1980,93,Literate
+Dominican Republic,DOM,1980,74,Illiterate
+Ecuador,ECU,1980,82,Literate
+Guam,GUM,1980,96.420647,Literate
+Haiti,HTI,1980,31,Illiterate
+Honduras,HND,1980,61,Illiterate
+Hungary,HUN,1980,98.858292,Literate
+Indonesia,IDN,1980,67.312668,Illiterate
+Kuwait,KWT,1980,67.517662,Illiterate
+Malaysia,MYS,1980,69.516327,Illiterate
+Mexico,MEX,1980,82.989243,Literate
+Micronesia,,1980,89,Literate
+Mozambique,MOZ,1980,27.10178,Illiterate
+Nicaragua,NIC,1980,61,Illiterate
+Northern Mariana Islands,MNP,1980,97,Literate
+Palau,PLW,1980,91.921417,Literate
+Panama,PAN,1980,88.071739,Literate
+Paraguay,PRY,1980,86,Literate
+Peru,PER,1980,79,Literate
+Philippines,PHL,1980,83.31723,Literate
+Puerto Rico,PRI,1980,86.746063,Literate
+Singapore,SGP,1980,82.906052,Literate
+South Africa,ZAF,1980,76.200493,Literate
+South Korea,KOR,1980,88.93,Literate
+Thailand,THA,1980,87.981758,Literate
+Trinidad and Tobago,TTO,1980,94.970322,Literate
+Turkey,TUR,1980,65.694344,Illiterate
+Turkmenistan,TKM,1980,79.34234,Literate
+United States of America,USA,1980,83,Literate
+Venezuela,VEN,1980,84,Literate
+Bahrain,BHR,1981,69.75351,Illiterate
+Bangladesh,BGD,1981,29.22723,Illiterate
+Brunei,BRN,1981,77.834213,Literate
+Central African Republic,CAF,1981,26.752609,Illiterate
+China,CHN,1981,65.77643,Illiterate
+Colombia,COL,1981,85,Literate
+Costa Rica,CRI,1981,92,Literate
+Cuba,CUB,1981,97.846649,Literate
+Dominican Republic,DOM,1981,73.064568,Illiterate
+Ecuador,ECU,1981,82,Literate
+Greece,GRC,1981,90.512321,Literate
+Haiti,HTI,1981,31,Illiterate
+Honduras,HND,1981,62,Illiterate
+India,IND,1981,40.763592,Illiterate
+Italy,ITA,1981,96.460541,Literate
+Macao,MAC,1981,90.378181,Literate
+Montenegro,MNE,1981,89.635109,Literate
+Nepal,NPL,1981,20.573669,Illiterate
+Nicaragua,NIC,1981,61,Illiterate
+Pakistan,PAK,1981,25.725189,Illiterate
+Paraguay,PRY,1981,86,Literate
+Peru,PER,1981,81.918457,Literate
+Portugal,PRT,1981,79.435608,Literate
+Sao Tome and Principe,STP,1981,57.324261,Illiterate
+Spain,ESP,1981,92.809769,Literate
+Sri Lanka,LKA,1981,86.777924,Literate
+Syria,SYR,1981,55.654499,Illiterate
+Venezuela,VEN,1981,84.732201,Literate
+Chile,CHL,1982,91.128403,Literate
+Costa Rica,CRI,1982,92,Literate
+Ecuador,ECU,1982,83.552689,Literate
+Haiti,HTI,1982,34.734692,Illiterate
+Honduras,HND,1982,63,Illiterate
+Morocco,MAR,1982,30.257799,Illiterate
+Nicaragua,NIC,1982,62,Illiterate
+Paraguay,PRY,1982,87,Literate
+Saint Pierre and Miquelon,SPM,1982,99,Literate
+South Korea,KOR,1982,88.12312,Literate
+Turkmenistan,TKM,1982,81.123123,Literate
+Zimbabwe,ZWE,1982,77.794167,Literate
+China,CHN,1983,65.505089,Illiterate
+Costa Rica,CRI,1983,92,Literate
+Honduras,HND,1983,64,Illiterate
+Israel,ISR,1983,91.751411,Literate
+Myanmar,MMR,1983,78.570412,Literate
+Nicaragua,NIC,1983,62,Illiterate
+South Korea,KOR,1983,88.342344,Literate
+United States of America,USA,1983,84.23423423,Literate
+Anguilla,AIA,1984,95,Literate
+Costa Rica,CRI,1984,92.629044,Literate
+Honduras,HND,1984,64,Illiterate
+Liberia,LBR,1984,32.10677,Illiterate
+Libya,LBY,1984,76.123123,Literate
+Nicaragua,NIC,1984,63,Illiterate
+Tunisia,TUN,1984,48.190701,Illiterate
+China,CHN,1985,67.23123,Illiterate
+Honduras,HND,1985,65,Illiterate
+Kuwait,KWT,1985,74.490868,Illiterate
+Maldives,MDV,1985,92.230049,Literate
+Malta,MLT,1985,85.653717,Literate
+Nicaragua,NIC,1985,63,Illiterate
+South Korea,KOR,1985,89.12312,Literate
+Turkey,TUR,1985,75.968239,Literate
+Turkmenistan,TKM,1985,82.123123,Literate
+United Arab Emirates,ARE,1985,71.235298,Illiterate
+Uruguay,URY,1985,95.379982,Literate
+Egypt,EGY,1986,44.423988,Illiterate
+Honduras,HND,1986,66,Illiterate
+Iran,IRN,1986,52.319759,Illiterate
+Nicaragua,NIC,1986,63,Illiterate
+Qatar,QAT,1986,75.63504,Literate
+Swaziland,SWZ,1986,67.23938,Illiterate
+Algeria,DZA,1987,49.630878,Illiterate
+Honduras,HND,1987,66,Illiterate
+Malawi,MWI,1987,48.536652,Illiterate
+Nicaragua,NIC,1987,64,Illiterate
+Saint Helena,SHN,1987,97,Literate
+Seychelles,SYC,1987,84.229218,Literate
+Turkmenistan,TKM,1987,83.123123,Literate
+Central African Republic,CAF,1988,33.62442,Illiterate
+Cote d'Ivoire,CIV,1988,34.139278,Illiterate
+Honduras,HND,1988,67,Illiterate
+Nicaragua,NIC,1988,64,Illiterate
+Senegal,SEN,1988,26.868851,Illiterate
+Tanzania,TZA,1988,59.1138,Illiterate
+Armenia,ARM,1989,98.751961,Literate
+Belarus,BLR,1989,97.883369,Literate
+Estonia,EST,1989,99.72644,Literate
+Honduras,HND,1989,68,Illiterate
+Kazakhstan,KAZ,1989,97.529381,Literate
+Latvia,LVA,1989,99.452301,Literate
+Lithuania,LTU,1989,98.441269,Literate
+Moldova,MDA,1989,96.377548,Literate
+New Caledonia,NCL,1989,93.080627,Literate
+Nicaragua,NIC,1989,64,Illiterate
+Russia,RUS,1989,97.986053,Literate
+Tajikistan,TJK,1989,97.694023,Literate
+Vietnam,VNM,1989,87.596451,Literate
+Burundi,BDI,1990,37.38472,Illiterate
+Cape Verde,CPV,1990,62.79686,Illiterate
+China,CHN,1990,77.785057,Literate
+East Asia & Pacific,,1990,82.054344,Literate
+Ecuador,ECU,1990,88.298759,Literate
+Europe & Central Asia,,1990,97.260788,Literate
+Guam,GUM,1990,99.369148,Literate
+Indonesia,IDN,1990,81.519852,Literate
+Latin America & Caribbean,,1990,87.463829,Literate
+Libya,LBY,1990,77.3123412,Literate
+Maldives,MDV,1990,96.018257,Literate
+Mauritius,MUS,1990,79.86866,Literate
+Mexico,MEX,1990,87.556152,Literate
+Middle East & North Africa,,1990,58.496243,Illiterate
+Nicaragua,NIC,1990,65,Illiterate
+Panama,PAN,1990,88.779861,Literate
+Philippines,PHL,1990,93.573898,Literate
+Puerto Rico,PRI,1990,89.622498,Literate
+Russia,RUS,1990,95.234124,Literate
+Singapore,SGP,1990,89.096001,Literate
+Small states,,1990,77.28492,Literate
+South Korea,KOR,1990,89.45566,Literate
+Trinidad and Tobago,TTO,1990,96.938553,Literate
+Turkey,TUR,1990,79.232452,Literate
+Turkmenistan,TKM,1990,84.123123,Literate
+Venezuela,VEN,1990,89.825249,Literate
+Zambia,ZMB,1990,64.99826,Illiterate
+Argentina,ARG,1991,96.128197,Literate
+Bahrain,BHR,1991,84.013832,Literate
+Bangladesh,BGD,1991,35.319302,Illiterate
+Belize,BLZ,1991,70.298424,Illiterate
+Botswana,BWA,1991,68.58091,Illiterate
+Brunei,BRN,1991,87.804176,Literate
+Burkina Faso,BFA,1991,13.56923,Illiterate
+China,CHN,1991,68.1231,Illiterate
+Croatia,HRV,1991,96.701553,Literate
+Greece,GRC,1991,92.610451,Literate
+India,IND,1991,48.222069,Illiterate
+Iran,IRN,1991,65.531403,Illiterate
+Libya,LBY,1991,79.987474,Literate
+Malaysia,MYS,1991,82.915367,Literate
+Montenegro,MNE,1991,93.462997,Literate
+Namibia,NAM,1991,75.816582,Literate
+Nepal,NPL,1991,32.97559,Illiterate
+Nicaragua,NIC,1991,65,Illiterate
+Nigeria,NGA,1991,55.446751,Illiterate
+Portugal,PRT,1991,87.947853,Literate
+Russia,RUS,1991,96.324124,Literate
+Rwanda,RWA,1991,57.853489,Illiterate
+Samoa,WSM,1991,97.944328,Literate
+Sao Tome and Principe,STP,1991,73.242416,Illiterate
+Slovenia,SVN,1991,99.524521,Literate
+Spain,ESP,1991,96.494972,Literate
+Turkmenistan,TKM,1991,85.123123,Literate
+Uganda,UGA,1991,56.10738,Illiterate
+Benin,BEN,1992,27.245251,Illiterate
+Bolivia,BOL,1992,79.991768,Literate
+Chile,CHL,1992,94.291138,Literate
+Cyprus,CYP,1992,94.362473,Literate
+El Salvador,SLV,1992,74.143158,Illiterate
+Nicaragua,NIC,1992,65,Illiterate
+Paraguay,PRY,1992,90.27182,Literate
+Romania,ROU,1992,96.709976,Literate
+Russia,RUS,1992,94.123123,Literate
+Saudi Arabia,SAU,1992,70.821648,Illiterate
+Zimbabwe,ZWE,1992,83.512581,Literate
+Chad,TCD,1993,28.1231212,Illiterate
+China,CHN,1993,69.45234,Illiterate
+Colombia,COL,1993,91.063087,Literate
+Gabon,GAB,1993,72.233673,Illiterate
+Nicaragua,NIC,1993,66,Illiterate
+Peru,PER,1993,87.150627,Literate
+Chad,TCD,1994,27.123123,Illiterate
+Ethiopia,ETH,1994,27.01136,Illiterate
+Guatemala,GTM,1994,64.211639,Illiterate
+Hungary,HUN,1994,98.982071,Literate
+Liberia,LBR,1994,42.66605,Illiterate
+Libya,LBY,1994,80.32412,Literate
+Macedonia,MKD,1994,94.058746,Literate
+Morocco,MAR,1994,41.594109,Illiterate
+Nicaragua,NIC,1994,66,Illiterate
+Palau,PLW,1994,94.433296,Literate
+Poland,POL,1994,97.3423124,Literate
+Russia,RUS,1994,96.123123,Literate
+Seychelles,SYC,1994,87.81115,Literate
+South Korea,KOR,1994,90.44123,Literate
+Tunisia,TUN,1994,59.06181,Illiterate
+United States of America,USA,1994,85.66543,Literate
+Vanuatu,VUT,1994,68.46003,Illiterate
+Yemen,YEM,1994,37.09,Illiterate
+Kuwait,KWT,1995,78.3955,Literate
+Laos,LAO,1995,60.251331,Illiterate
+Libya,LBY,1995,81.123123,Literate
+Maldives,MDV,1995,96.3265,Literate
+Malta,MLT,1995,87.868698,Literate
+Nicaragua,NIC,1995,67,Illiterate
+Russia,RUS,1995,94.1231231,Literate
+Turkmenistan,TKM,1995,86.23123,Literate
+Burkina Faso,BFA,1996,12.84817,Illiterate
+Canada,CAN,1996,92.12312,Literate
+Chad,TCD,1996,26.1231231,Illiterate
+Colombia,COL,1996,91.207161,Literate
+Egypt,EGY,1996,55.587002,Illiterate
+Guinea,GIN,1996,20.553749,Illiterate
+Iran,IRN,1996,73.060249,Illiterate
+Libya,LBY,1996,82.123123,Literate
+New Caledonia,NCL,1996,96.137917,Literate
+Nicaragua,NIC,1996,67,Illiterate
+Russia,RUS,1996,96.12312312,Literate
+South Africa,ZAF,1996,82.4021,Literate
+South Korea,KOR,1996,90.35432,Literate
+Tonga,TON,1996,98.905373,Literate
+United States of America,USA,1996,86.1123123,Literate
+Uruguay,URY,1996,96.781807,Literate
+Canada,CAN,1997,92.1231,Literate
+Mozambique,MOZ,1997,38.707878,Illiterate
+Nicaragua,NIC,1997,67,Illiterate
+Palestine,PSE,1997,86.062889,Literate
+Qatar,QAT,1997,83.262161,Literate
+Russia,RUS,1997,97.23123,Literate
+United States of America,USA,1997,86.123412,Literate
+Cambodia,KHM,1998,67.33503,Illiterate
+Cote d'Ivoire,CIV,1998,36.350239,Illiterate
+Malawi,MWI,1998,64.134247,Illiterate
+Mali,MLI,1998,19.04497,Illiterate
+Nicaragua,NIC,1998,68,Illiterate
+Pakistan,PAK,1998,42.69931,Illiterate
+Azerbaijan,AZE,1999,98.791801,Literate
+Belarus,BLR,1999,99.590729,Literate
+Chad,TCD,1999,27.123123,Illiterate
+Jamaica,JAM,1999,79.92012,Literate
+Kazakhstan,KAZ,1999,99.512657,Literate
+Kyrgyzstan,KGZ,1999,98.701607,Literate
+Nicaragua,NIC,1999,68,Illiterate
+Solomon Islands,SLB,1999,76.599998,Literate
+Vanuatu,VUT,1999,74,Illiterate
+Vietnam,VNM,1999,90.278297,Literate
+Zambia,ZMB,1999,68.001793,Illiterate
+Aruba,ABW,2000,97.291252,Literate
+Brazil,BRA,2000,86.367882,Literate
+Burundi,BDI,2000,59.303619,Illiterate
+Cameroon,CMR,2000,68.409157,Illiterate
+Central African Republic,CAF,2000,50.645168,Illiterate
+Chad,TCD,2000,25.654209,Illiterate
+China,CHN,2000,79.32123,Literate
+Comoros,COM,2000,68.489227,Illiterate
+Costa Rica,CRI,2000,94.868187,Literate
+Cote d'Ivoire,CIV,2000,48.740761,Illiterate
+East Asia & Pacific,,2000,91.61869,Literate
+Equatorial Guinea,GNQ,2000,88.308296,Literate
+Estonia,EST,2000,99.767197,Literate
+Europe & Central Asia,,2000,98.145844,Literate
+Finland,FIN,2000,99.22212,Literate
+Gambia,GMB,2000,36.81773,Illiterate
+Ghana,GHA,2000,57.897469,Illiterate
+Guinea-Bissau,GNB,2000,41.357769,Illiterate
+Iraq,IRQ,2000,74.0522,Illiterate
+Kenya,KEN,2000,82.22908,Literate
+Laos,LAO,2000,69.583122,Illiterate
+Latin America & Caribbean,,2000,89.736443,Literate
+Latvia,LVA,2000,99.746567,Literate
+Lesotho,LSO,2000,86.254433,Literate
+Libya,LBY,2000,83.12312,Literate
+Luxembourg,LUX,2000,97.21323,Literate
+Madagascar,MDG,2000,70.686172,Illiterate
+Malaysia,MYS,2000,88.687759,Literate
+Maldives,MDV,2000,96.3265,Literate
+Mauritania,MRT,2000,51.20768,Illiterate
+Mauritius,MUS,2000,84.303093,Literate
+Mexico,MEX,2000,90.535622,Literate
+Middle East & North Africa,,2000,70.403152,Illiterate
+Moldova,MDA,2000,96.653801,Literate
+Mongolia,MNG,2000,97.768852,Literate
+Myanmar,MMR,2000,89.941757,Literate
+Nicaragua,NIC,2000,66,Illiterate
+Panama,PAN,2000,91.89962,Literate
+Papua New Guinea,PNG,2000,57.343262,Illiterate
+Philippines,PHL,2000,92.60006,Literate
+Russia,RUS,2000,99.32123,Literate
+Rwanda,RWA,2000,64.888603,Illiterate
+Saudi Arabia,SAU,2000,79.350937,Literate
+Singapore,SGP,2000,92.5494,Literate
+Small states,,2000,81.477959,Literate
+South Korea,KOR,2000,90.123,Literate
+Sudan,SDN,2000,61.345871,Illiterate
+Swaziland,SWZ,2000,81.660698,Literate
+Tajikistan,TJK,2000,99.451248,Literate
+Thailand,THA,2000,92.646538,Literate
+Togo,TGO,2000,53.177601,Illiterate
+Uzbekistan,UZB,2000,98.642578,Literate
+Vietnam,VNM,2000,90.156128,Literate
+Albania,ALB,2001,98.712982,Literate
+Angola,AGO,2001,67.405418,Illiterate
+Argentina,ARG,2001,97.193314,Literate
+Armenia,ARM,2001,99.400162,Literate
+Bahrain,BHR,2001,86.548737,Literate
+Bangladesh,BGD,2001,47.4855,Illiterate
+Bolivia,BOL,2001,86.723671,Literate
+Brunei,BRN,2001,92.671127,Literate
+Bulgaria,BGR,2001,98.20356,Literate
+Canada,CAN,2001,93.42131,Literate
+Croatia,HRV,2001,98.146683,Literate
+Cyprus,CYP,2001,96.803627,Literate
+Democratic Republic of Congo,COD,2001,67.172989,Illiterate
+Ecuador,ECU,2001,90.984032,Literate
+Gabon,GAB,2001,74.23123,Literate
+Greece,GRC,2001,95.994362,Literate
+Greenland,GRL,2001,97.67854,Literate
+Honduras,HND,2001,80.011032,Literate
+India,IND,2001,61.014561,Illiterate
+Italy,ITA,2001,98.416618,Literate
+Laos,LAO,2001,68.73439,Illiterate
+Libya,LBY,2001,85.416817,Literate
+Lithuania,LTU,2001,99.645752,Literate
+Macao,MAC,2001,91.295372,Literate
+Namibia,NAM,2001,85.041283,Literate
+Nepal,NPL,2001,48.608971,Illiterate
+Nicaragua,NIC,2001,76.677132,Literate
+Niger,NER,2001,14.37604,Illiterate
+Russia,RUS,2001,99.23123,Literate
+Saint Lucia,LCA,2001,90.099998,Literate
+Sao Tome and Principe,STP,2001,84.908508,Literate
+Somalia,SOM,2001,37.799999,Illiterate
+Sri Lanka,LKA,2001,90.682747,Literate
+Timor,TLS,2001,37.599998,Illiterate
+Ukraine,UKR,2001,99.430412,Literate
+Venezuela,VEN,2001,92.979828,Literate
+Algeria,DZA,2002,69.873497,Illiterate
+Barbados,BRB,2002,99.699997,Literate
+Benin,BEN,2002,34.657848,Illiterate
+Canada,CAN,2002,93.2211,Literate
+Chile,CHL,2002,95.716621,Literate
+Cuba,CUB,2002,99.799072,Literate
+Dominican Republic,DOM,2002,86.996468,Literate
+Eritrea,ERI,2002,52.51395,Illiterate
+Georgia,GEO,2002,99.652351,Literate
+Guatemala,GTM,2002,69.10173,Illiterate
+Hong Kong,HKG,2002,93.5,Literate
+Iran,IRN,2002,77,Literate
+Japan,JPN,2002,99,Literate
+Macedonia,MKD,2002,96.128929,Literate
+Mexico,MEX,2002,90.274651,Literate
+Romania,ROU,2002,97.297592,Literate
+Russia,RUS,2002,98.34321,Literate
+Senegal,SEN,2002,39.275249,Illiterate
+Seychelles,SYC,2002,91.836456,Literate
+Syria,SYR,2002,82.888252,Literate
+Tanzania,TZA,2002,69.430901,Illiterate
+Uganda,UGA,2002,68.142509,Illiterate
+United States of America,USA,2002,87.3423422,Literate
+Zambia,ZMB,2002,69.149223,Illiterate
+Australia,AUS,2003,99,Literate
+Bahamas,BHS,2003,95.599998,Literate
+Belgium,BEL,2003,99,Literate
+Botswana,BWA,2003,81.188713,Literate
+Burkina Faso,BFA,2003,21.82292,Illiterate
+Canada,CAN,2003,92.12312,Literate
+Canada,CAN,2003,94.2121,Literate
+China,CHN,2003,86.357452,Literate
+Denmark,DNK,2003,99,Literate
+Djibouti,DJI,2003,67.900002,Illiterate
+Dominica,DMA,2003,94,Literate
+Fiji,FJI,2003,93.699997,Literate
+France,FRA,2003,99,Literate
+Germany,DEU,2003,99,Literate
+Grenada,GRD,2003,96,Literate
+Guinea,GIN,2003,29.70402,Illiterate
+Haiti,HTI,2003,58.7439,Illiterate
+Ireland,IRL,2003,99,Literate
+Jordan,JOR,2003,89.892319,Literate
+Mali,MLI,2003,24,Illiterate
+Monaco,MCO,2003,99,Literate
+Montenegro,MNE,2003,97.77346,Literate
+Mozambique,MOZ,2003,48.15884,Illiterate
+Netherlands,NLD,2003,99,Literate
+New Zealand,NZL,2003,99,Literate
+Nigeria,NGA,2003,54.773178,Illiterate
+Oman,OMN,2003,81.363312,Literate
+Philippines,PHL,2003,92.590691,Literate
+Russia,RUS,2003,98.23123,Literate
+Saint Kitts and Nevis,KNA,2003,97.800003,Literate
+Serbia,SRB,2003,96.39724,Literate
+South Korea,KOR,2003,91.4523,Literate
+Sweden,SWE,2003,99,Literate
+Switzerland,CHE,2003,99,Literate
+Taiwan,TWN,2003,96.099998,Literate
+United Kingdom,GBR,2003,97.321323,Literate
+United States of America,USA,2003,89.86543,Literate
+Brazil,BRA,2004,88.616241,Literate
+Cambodia,KHM,2004,73.609947,Illiterate
+Canada,CAN,2004,94.4121,Literate
+Cape Verde,CPV,2004,80.019722,Literate
+Chad,TCD,2004,28.38143,Illiterate
+China,CHN,2004,87.234234,Literate
+Colombia,COL,2004,92.80378,Literate
+El Salvador,SLV,2004,80.778358,Literate
+Ethiopia,ETH,2004,35.900002,Illiterate
+Gabon,GAB,2004,81.84552,Literate
+Hungary,HUN,2004,99.029221,Literate
+Indonesia,IDN,2004,90.384789,Literate
+Israel,ISR,2004,97.099998,Literate
+Liberia,LBR,2004,43.108372,Illiterate
+Libya,LBY,2004,88.123123,Literate
+Mexico,MEX,2004,90.953743,Literate
+Morocco,MAR,2004,52.306259,Illiterate
+Palau,PLW,2004,96.989799,Literate
+Palestine,PSE,2004,92.279968,Literate
+Peru,PER,2004,87.669853,Literate
+Poland,POL,2004,96.213123,Literate
+Puerto Rico,PRI,2004,90.529343,Literate
+Qatar,QAT,2004,88.962387,Literate
+Russia,RUS,2004,99.719566,Literate
+Samoa,WSM,2004,98.540482,Literate
+Saudi Arabia,SAU,2004,82.857742,Literate
+Sierra Leone,SLE,2004,34.82679,Illiterate
+Slovakia,SVK,2004,99.599998,Literate
+Slovenia,SVN,2004,99.651787,Literate
+South Korea,KOR,2004,92.1211,Literate
+Spain,ESP,2004,97.165123,Literate
+Suriname,SUR,2004,89.598061,Literate
+Switzerland,CHE,2004,99,Literate
+Syria,SYR,2004,80.844521,Literate
+Trinidad and Tobago,TTO,2004,98.288513,Literate
+Tunisia,TUN,2004,74.296997,Illiterate
+Turkey,TUR,2004,87.365494,Literate
+United Kingdom,GBR,2004,98,Literate
+Vanuatu,VUT,2004,78.080978,Literate
+Yemen,YEM,2004,54.199181,Illiterate
+Bermuda,BMU,2005,98,Literate
+Bhutan,BTN,2005,52.81469,Illiterate
+Burkina Faso,BFA,2005,23.55372,Illiterate
+Canada,CAN,2005,94.1231,Literate
+China,CHN,2005,88.75345,Literate
+Colombia,COL,2005,92.848663,Literate
+Egypt,EGY,2005,71.408859,Illiterate
+Ethiopia,ETH,2005,29.820339,Illiterate
+Iran,IRN,2005,82.4412,Literate
+Jordan,JOR,2005,91.130753,Literate
+Kuwait,KWT,2005,93.27446,Literate
+Laos,LAO,2005,72.702263,Illiterate
+Libya,LBY,2005,88.453432,Literate
+Malta,MLT,2005,92.363091,Literate
+Mexico,MEX,2005,91.630272,Literate
+Nicaragua,NIC,2005,78.002983,Literate
+Niger,NER,2005,28.672421,Illiterate
+Pakistan,PAK,2005,49.873638,Illiterate
+Peru,PER,2005,87.908669,Literate
+Poland,POL,2005,98.742737,Literate
+Russia,RUS,2005,99.719566,Literate
+Spain,ESP,2005,97.750687,Literate
+Thailand,THA,2005,93.506477,Literate
+Turkey,TUR,2005,88.229057,Literate
+United Arab Emirates,ARE,2005,90.033852,Literate
+United Kingdom,GBR,2005,98.23412,Literate
+Algeria,DZA,2006,72.648682,Illiterate
+Benin,BEN,2006,28.70211,Illiterate
+Brazil,BRA,2006,89.615227,Literate
+Burkina Faso,BFA,2006,22.47258,Illiterate
+Canada,CAN,2006,96.1231,Literate
+Colombia,COL,2006,92.299683,Literate
+Egypt,EGY,2006,66.369911,Illiterate
+El Salvador,SLV,2006,83.559464,Literate
+Haiti,HTI,2006,48.68502,Illiterate
+India,IND,2006,62.754471,Illiterate
+Indonesia,IDN,2006,91.982269,Literate
+Iran,IRN,2006,82.331322,Literate
+Kuwait,KWT,2006,93.28212,Literate
+Libya,LBY,2006,88.877782,Literate
+Macao,MAC,2006,93.499748,Literate
+Maldives,MDV,2006,98.397903,Literate
+Mali,MLI,2006,26.17655,Illiterate
+Mexico,MEX,2006,91.73452,Literate
+Pakistan,PAK,2006,54.151211,Illiterate
+Palestine,PSE,2006,93.449966,Literate
+Peru,PER,2006,88.699341,Literate
+Poland,POL,2006,99.402367,Literate
+Russia,RUS,2006,99.719566,Literate
+Senegal,SEN,2006,41.891151,Illiterate
+Sri Lanka,LKA,2006,90.80883,Literate
+Togo,TGO,2006,56.888371,Illiterate
+Tonga,TON,2006,99.018463,Literate
+Turkey,TUR,2006,88.119392,Literate
+Uganda,UGA,2006,71.373138,Illiterate
+United Kingdom,GBR,2006,98.34343,Literate
+Uruguay,URY,2006,97.789627,Literate
+Afghanistan,AFG,2007,27.168041,Illiterate
+Albania,ALB,2007,86.553902,Literate
+Algeria,DZA,2007,68.608398,Literate
+Angola,AGO,2007,60.164162,Illiterate
+Argentina,ARG,2007,87.089973,Literate
+Aruba,ABW,2007,86.5242,Literate
+Azerbaijan,AZE,2007,99.601913,Literate
+Bahrain,BHR,2007,84.717262,Literate
+Bangladesh,BGD,2007,50.493832,Illiterate
+Belarus,BLR,2007,88.722038,Literate
+Belize,BLZ,2007,71.776817,Literate
+Benin,BEN,2007,27.44714,Illiterate
+Bhutan,BTN,2007,52.906818,Illiterate
+Bolivia,BOL,2007,84.141922,Literate
+Bolivia,BOL,2007,90.743469,Literate
+Botswana,BWA,2007,77.224411,Literate
+Brazil,BRA,2007,81.586807,Literate
+Brazil,BRA,2007,90.009369,Literate
+Brunei,BRN,2007,85.656532,Literate
+Bulgaria,BGR,2007,87.38858,Literate
+Burkina Faso,BFA,2007,26.7467,Illiterate
+Burkina Faso,BFA,2007,28.72921,Illiterate
+Burundi,BDI,2007,74.496094,Literate
+Cambodia,KHM,2007,67.34594,Literate
+Cameroon,CMR,2007,63.98558,Illiterate
+Cameroon,CMR,2007,70.679939,Illiterate
+Canada,CAN,2007,88,Literate
+Canada,CAN,2007,95.12312,Literate
+Cape Verde,CPV,2007,77.465424,Literate
+Central African Republic,CAF,2007,25.752609,Illiterate
+Chad,TCD,2007,29.018242,Illiterate
+Chile,CHL,2007,85.627548,Literate
+China,CHN,2007,86.234234,Literate
+Colombia,COL,2007,83.577057,Literate
+Colombia,COL,2007,92.651787,Literate
+Comoros,COM,2007,67.13739,Literate
+Congo,COG,2007,68.311172,Literate
+Costa Rica,CRI,2007,86.647247,Literate
+Cote d'Ivoire,CIV,2007,32.26532,Illiterate
+Croatia,HRV,2007,88.272591,Literate
+Cuba,CUB,2007,88.710716,Literate
+Cyprus,CYP,2007,88.059776,Literate
+Democratic Republic of Congo,COD,2007,61.205551,Illiterate
+Democratic Republic of Congo,COD,2007,66.221672,Literate
+Dominican Republic,DOM,2007,81.465424,Literate
+Dominican Republic,DOM,2007,88.244461,Literate
+Ecuador,ECU,2007,83.515472,Literate
+Ecuador,ECU,2007,84.192719,Literate
+Egypt,EGY,2007,64.842621,Literate
+El Salvador,SLV,2007,76.648216,Literate
+El Salvador,SLV,2007,82.028633,Literate
+Equatorial Guinea,GNQ,2007,84.195663,Literate
+Eritrea,ERI,2007,62.845253,Illiterate
+Ethiopia,ETH,2007,38.031521,Illiterate
+Ethiopia,ETH,2007,38.995979,Illiterate
+Gabon,GAB,2007,72.237877,Literate
+Gambia,GMB,2007,44.572762,Illiterate
+Georgia,GEO,2007,88.759621,Literate
+Ghana,GHA,2007,65.575897,Literate
+Greece,GRC,2007,84.29287,Literate
+Guatemala,GTM,2007,68.074211,Literate
+Guinea,GIN,2007,19.47279,Illiterate
+Guinea-Bissau,GNB,2007,48.77285,Illiterate
+Guyana,GUY,2007,76.535316,Literate
+Haiti,HTI,2007,49.68935,Illiterate
+Honduras,HND,2007,77.424583,Literate
+Honduras,HND,2007,83.588989,Literate
+Hong Kong,HKG,2007,87.2,Literate
+Hungary,HUN,2007,88.380882,Literate
+Iceland,ISL,2007,88,Literate
+India,IND,2007,61.225304,Illiterate
+Indonesia,IDN,2007,84.437683,Literate
+Iran,IRN,2007,76.172531,Literate
+Iraq,IRQ,2007,68.721764,Literate
+Italy,ITA,2007,88.015793,Literate
+Jamaica,JAM,2007,77.499901,Literate
+Jordan,JOR,2007,87.014351,Literate
+Jordan,JOR,2007,92.199577,Literate
+Kenya,KEN,2007,67.023399,Literate
+Kenya,KEN,2007,72.157028,Illiterate
+Kosovo,OWID_KOS,2007,91.900002,Literate
+Kuwait,KWT,2007,85.117706,Literate
+Kuwait,KWT,2007,93.664192,Literate
+Kyrgyzstan,KGZ,2007,88.50132,Literate
+Laos,LAO,2007,68.867462,Literate
+Latvia,LVA,2007,88.892693,Literate
+Lebanon,LBN,2007,83.051102,Literate
+Lesotho,LSO,2007,68.360931,Literate
+Liberia,LBR,2007,36.60014,Illiterate
+Libya,LBY,2007,80.38887,Literate
+Macao,MAC,2007,85.2276,Literate
+Macedonia,MKD,2007,86.843758,Literate
+Madagascar,MDG,2007,53.656303,Illiterate
+Malawi,MWI,2007,54.963829,Illiterate
+Myanmar,MMR,2007,82.09005,Literate
+Namibia,NAM,2007,79.820503,Literate
+Nepal,NPL,2007,53.663643,Illiterate
+New Caledonia,NCL,2007,85.93782,Literate
+Nicaragua,NIC,2007,71.471848,Literate
+Niger,NER,2007,8.1026,Illiterate
+Nigeria,NGA,2007,48.568081,Illiterate
+North Korea,PRK,2007,88.999237,Literate
+Oman,OMN,2007,82.971649,Literate
+Pakistan,PAK,2007,45.440311,Illiterate
+Palau,PLW,2007,88.523972,Literate
+Palestine,PSE,2007,85.668037,Literate
+Panama,PAN,2007,84.038231,Literate
+Papua New Guinea,PNG,2007,52.433491,Illiterate
+Paraguay,PRY,2007,84.53611,Literate
+Peru,PER,2007,83.374352,Literate
+Philippines,PHL,2007,85.618027,Literate
+Russia,RUS,2007,88.719566,Literate
+Rwanda,RWA,2007,60.2435,Illiterate
+Samoa,WSM,2007,88.015007,Literate
+Sao Tome and Principe,STP,2007,80.747108,Literate
+Saudi Arabia,SAU,2007,83.842369,Literate
+Senegal,SEN,2007,44.624851,Illiterate
+Serbia,SRB,2007,87.002892,Literate
+Seychelles,SYC,2007,84.321083,Literate
+Sierra Leone,SLE,2007,37.4319,Illiterate
+Singapore,SGP,2007,85.774628,Literate
+Slovenia,SVN,2007,88.71476,Literate
+South Africa,ZAF,2007,83.597939,Literate
+South Korea,KOR,2007,92.12312,Literate
+South Sudan,SSD,2007,20.97625,Illiterate
+Spain,ESP,2007,87.11451,Literate
+Sri Lanka,LKA,2007,81.614166,Literate
+Sudan,SDN,2007,47.601318,Illiterate
+Suriname,SUR,2007,84.538986,Literate
+Swaziland,SWZ,2007,76.470192,Literate
+Switzerland,CHE,2007,99,Literate
+Syria,SYR,2007,75.303932,Literate
+Tanzania,TZA,2007,69.359497,Literate
+Thailand,THA,2007,82.983017,Literate
+Timor,TLS,2007,53.066139,Illiterate
+Togo,TGO,2007,55.53759,Illiterate
+Tonga,TON,2007,88.397858,Literate
+Trinidad and Tobago,TTO,2007,87.969582,Literate
+Tunisia,TUN,2007,70.054192,Literate
+Turkey,TUR,2007,84.688103,Literate
+Turkmenistan,TKM,2007,88.692932,Literate
+Uganda,UGA,2007,62.809837,Illiterate
+Ukraine,UKR,2007,88.764107,Literate
+United Arab Emirates,ARE,2007,81.986366,Literate
+United Kingdom,GBR,2007,98.653453,Literate
+United States of America,USA,2007,88,Literate
+Uruguay,URY,2007,87.442101,Literate
+Uzbekistan,UZB,2007,88.995193,Literate
+Vanuatu,VUT,2007,74.058678,Literate
+Venezuela,VEN,2007,84.399246,Literate
+Vietnam,VNM,2007,83.514267,Literate
+Yemen,YEM,2007,58.961952,Illiterate
+Zambia,ZMB,2007,74.117264,Literate
+Zimbabwe,ZWE,2007,75.873482,Literate
+Albania,ALB,2008,95.938637,Literate
+Algeria,DZA,2008,75.136047,Literate
+Bolivia,BOL,2008,90.698112,Literate
+Brazil,BRA,2008,90.036621,Literate
+Burundi,BDI,2008,86.947868,Literate
+Cambodia,KHM,2008,77.58654,Literate
+Chile,CHL,2008,98.64901,Literate
+Colombia,COL,2008,93.378181,Literate
+El Salvador,SLV,2008,83.951302,Literate
+Gabon,GAB,2008,81.2312,Literate
+Indonesia,IDN,2008,92.192299,Literate
+Iran,IRN,2008,82.962303,Literate
+Kuwait,KWT,2008,93.906212,Literate
+Mexico,MEX,2008,92.925598,Literate
+Morocco,MAR,2008,55.147919,Illiterate
+Nigeria,NGA,2008,51.07766,Illiterate
+North Korea,PRK,2008,99.99826,Literate
+Oman,OMN,2008,86.62114,Literate
+Pakistan,PAK,2008,55.526371,Illiterate
+Palestine,PSE,2008,94.058647,Literate
+Paraguay,PRY,2008,93.292084,Literate
+Philippines,PHL,2008,95.420097,Literate
+Qatar,QAT,2008,93.989731,Literate
+Sao Tome and Principe,STP,2008,69.536392,Illiterate
+South Korea,KOR,2008,97.965942,Literate
+South Sudan,SSD,2008,26.83128,Illiterate
+Spain,ESP,2008,97.630608,Literate
+Sri Lanka,LKA,2008,90.557953,Literate
+Sudan,SDN,2008,53.51738,Illiterate
+Suriname,SUR,2008,94.620941,Literate
+Switzerland,CHE,2008,99,Literate
+Tunisia,TUN,2008,77.561127,Literate
+United Kingdom,GBR,2008,99.1211,Literate
+Uruguay,URY,2008,98.163559,Literate
+Azerbaijan,AZE,2009,99.759842,Literate
+Belarus,BLR,2009,99.617058,Literate
+Bolivia,BOL,2009,91.167831,Literate
+Brazil,BRA,2009,90.29821,Literate
+Cambodia,KHM,2009,73.900032,Illiterate
+Canada,CAN,2009,96.23123,Literate
+Chile,CHL,2009,98.55368,Literate
+China,CHN,2009,86.357452,Literate
+Colombia,COL,2009,93.24469,Literate
+Ecuador,ECU,2009,84.206963,Literate
+El Salvador,SLV,2009,84.10289,Literate
+Gabon,GAB,2009,82.32131,Literate
+Guyana,GUY,2009,84.994011,Literate
+Indonesia,IDN,2009,92.581703,Literate
+Kazakhstan,KAZ,2009,99.732407,Literate
+Kyrgyzstan,KGZ,2009,99.241402,Literate
+Lesotho,LSO,2009,75.800201,Literate
+Madagascar,MDG,2009,64.480911,Illiterate
+Mexico,MEX,2009,93.441879,Literate
+Morocco,MAR,2009,56.083672,Illiterate
+Mozambique,MOZ,2009,50.583809,Illiterate
+Pakistan,PAK,2009,54.892639,Illiterate
+Palestine,PSE,2009,94.599167,Literate
+Paraguay,PRY,2009,93.754242,Literate
+Qatar,QAT,2009,94.724289,Literate
+Russia,RUS,2009,95.12312,Literate
+Senegal,SEN,2009,49.695129,Illiterate
+South Africa,ZAF,2009,92.894859,Literate
+Spain,ESP,2009,97.679268,Literate
+Togo,TGO,2009,57.09338,Illiterate
+Turkey,TUR,2009,90.816719,Literate
+United Kingdom,GBR,2009,99.23234,Literate
+Uruguay,URY,2009,98.267899,Literate
+Venezuela,VEN,2009,95.511993,Literate
+Vietnam,VNM,2009,93.520447,Literate
+Aruba,ABW,2010,96.822639,Literate
+Azerbaijan,AZE,2010,99.771141,Literate
+Bahrain,BHR,2010,94.556793,Literate
+Brazil,BRA,2010,90.379181,Literate
+Cameroon,CMR,2010,71.290512,Illiterate
+Canada,CAN,2010,97.12312,Literate
+Central African Republic,CAF,2010,36.752609,Illiterate
+China,CHN,2010,90.645345,Literate
+Colombia,COL,2010,93.37233,Literate
+Dominican Republic,DOM,2010,89.538727,Literate
+East Asia & Pacific,,2010,95.108223,Literate
+Ecuador,ECU,2010,91.854042,Literate
+Egypt,EGY,2010,72.047852,Illiterate
+El Salvador,SLV,2010,84.492722,Literate
+Europe & Central Asia,,2010,98.997589,Literate
+Ghana,GHA,2010,71.49707,Illiterate
+Guinea,GIN,2010,25.307739,Illiterate
+Honduras,HND,2010,84.755363,Literate
+Jordan,JOR,2010,92.551041,Literate
+Latin America & Caribbean,,2010,92.624313,Literate
+Malawi,MWI,2010,61.309719,Illiterate
+Malaysia,MYS,2010,93.117889,Literate
+Mali,MLI,2010,31.099751,Illiterate
+Mexico,MEX,2010,93.068939,Literate
+Middle East & North Africa,,2010,80.750015,Literate
+Mongolia,MNG,2010,98.257004,Literate
+Oman,OMN,2010,87.201721,Literate
+Pakistan,PAK,2010,55.375191,Illiterate
+Palestine,PSE,2010,94.932007,Literate
+Panama,PAN,2010,94.094116,Literate
+Paraguay,PRY,2010,93.870918,Literate
+Puerto Rico,PRI,2010,91.965233,Literate
+Qatar,QAT,2010,96.283737,Literate
+Russia,RUS,2010,99.719566,Literate
+Rwanda,RWA,2010,65.852272,Illiterate
+Seychelles,SYC,2010,93.954231,Literate
+Singapore,SGP,2010,95.85733,Literate
+Small states,,2010,85.654785,Literate
+South Africa,ZAF,2010,92.877319,Literate
+Spain,ESP,2010,97.748901,Literate
+Sri Lanka,LKA,2010,91.181358,Literate
+Suriname,SUR,2010,94.675751,Literate
+Swaziland,SWZ,2010,83.098289,Literate
+Switzerland,CHE,2010,99,Literate
+Tanzania,TZA,2010,67.800697,Illiterate
+Thailand,THA,2010,96.430908,Literate
+Timor,TLS,2010,58.308979,Illiterate
+Tunisia,TUN,2010,79.130577,Literate
+Turkey,TUR,2010,92.660599,Literate
+Uganda,UGA,2010,73.211884,Illiterate
+United Kingdom,GBR,2010,99.23234,Literate
+Uruguay,URY,2010,98.072708,Literate
+Zambia,ZMB,2010,83.007668,Literate
+Afghanistan,AFG,2011,31.741119,Illiterate
+Albania,ALB,2011,96.845299,Literate
+Andorra,AND,2011,100,Literate
+Armenia,ARM,2011,99.744408,Literate
+Austria,AUT,2011,98,Literate
+Azerbaijan,AZE,2011,99.778633,Literate
+Bolivia,BOL,2011,92.226151,Literate
+Brazil,BRA,2011,91.41124,Literate
+Brunei,BRN,2011,96.085564,Literate
+Bulgaria,BGR,2011,98.352448,Literate
+Canada,CAN,2011,98.32423,Literate
+Chile,CHL,2011,96.703011,Literate
+Colombia,COL,2011,93.580528,Literate
+Congo,COG,2011,79.311172,Literate
+Costa Rica,CRI,2011,97.406578,Literate
+Croatia,HRV,2011,99.125359,Literate
+Cyprus,CYP,2011,98.678429,Literate
+Czech Republic,CZE,2011,99,Literate
+Dominican Republic,DOM,2011,90.10627,Literate
+Ecuador,ECU,2011,91.586899,Literate
+Egypt,EGY,2011,75.842621,Literate
+El Salvador,SLV,2011,85.493988,Literate
+Estonia,EST,2011,99.885788,Literate
+Gabon,GAB,2011,82.283798,Literate
+Gibraltar,GIB,2011,80,Literate
+Honduras,HND,2011,85.123306,Literate
+India,IND,2011,69.302559,Illiterate
+Indonesia,IDN,2011,92.811913,Literate
+Italy,ITA,2011,98.848282,Literate
+Jordan,JOR,2011,95.904449,Literate
+Latvia,LVA,2011,99.895897,Literate
+Liechtenstein,LIE,2011,87.234124,Literate
+Lithuania,LTU,2011,99.815598,Literate
+Macao,MAC,2011,95.640038,Literate
+Mali,MLI,2011,33.56094,Illiterate
+Malta,MLT,2011,93.307358,Literate
+Marshall Islands,MHL,2011,98.265083,Literate
+Mauritius,MUS,2011,89.24984,Literate
+Mexico,MEX,2011,93.519981,Literate
+Montenegro,MNE,2011,98.442207,Literate
+Morocco,MAR,2011,67.08416,Illiterate
+Namibia,NAM,2011,89.400993,Literate
+Nepal,NPL,2011,59.627251,Illiterate
+Niue,NIU,2011,95,Literate
+Norway,NOR,2011,99.231231,Literate
+Pakistan,PAK,2011,54.738022,Illiterate
+Palestine,PSE,2011,95.267242,Literate
+Portugal,PRT,2011,94.477051,Literate
+Qatar,QAT,2011,96.406868,Literate
+Romania,ROU,2011,98.604286,Literate
+Samoa,WSM,2011,98.973259,Literate
+San Marino,SMR,2011,96,Literate
+Senegal,SEN,2011,52.05196,Illiterate
+Serbia,SRB,2011,97.96241,Literate
+Singapore,SGP,2011,96.179337,Literate
+Solomon Islands,SLB,2011,84.099998,Literate
+South Africa,ZAF,2011,93.102142,Literate
+Spain,ESP,2011,97.783752,Literate
+Togo,TGO,2011,60.409939,Illiterate
+Tonga,TON,2011,99.385529,Literate
+Tunisia,TUN,2011,79.653908,Literate
+Turkey,TUR,2011,94.106087,Literate
+United Kingdom,GBR,2011,99.23234,Literate
+United States of America,USA,2011,98.231223,Literate
+Uruguay,URY,2011,98.335899,Literate
+Vatican,VAT,2011,76.32123,Literate
+Venezuela,VEN,2011,94.770218,Literate
+Zimbabwe,ZWE,2011,83.58271,Literate
+Albania,ALB,2012,97.246971,Literate
+Azerbaijan,AZE,2012,99.775772,Literate
+Bhutan,BTN,2012,57.0336,Illiterate
+Bolivia,BOL,2012,94.460571,Literate
+Brazil,BRA,2012,91.337852,Literate
+Cape Verde,CPV,2012,85.327789,Literate
+Cote d'Ivoire,CIV,2012,40.981628,Illiterate
+Cuba,CUB,2012,99.752533,Literate
+Democratic Republic of Congo,COD,2012,75.017189,Literate
+Dominican Republic,DOM,2012,90.155182,Literate
+Ecuador,ECU,2012,92.064728,Literate
+Egypt,EGY,2012,73.865593,Illiterate
+Gabon,GAB,2012,82.283798,Literate
+Guatemala,GTM,2012,78.264862,Literate
+Honduras,HND,2012,85.355553,Literate
+Iran,IRN,2012,83.625992,Literate
+Jordan,JOR,2012,97.89032,Literate
+Kuwait,KWT,2012,95.513168,Literate
+Libya,LBY,2012,89.213131,Literate
+Mauritius,MUS,2012,91.766006,Literate
+Mexico,MEX,2012,94.228401,Literate
+Niger,NER,2012,15.4567,Illiterate
+Pakistan,PAK,2012,56.764339,Illiterate
+Palestine,PSE,2012,95.913757,Literate
+Peru,PER,2012,93.841721,Literate
+Qatar,QAT,2012,96.678589,Literate
+Rwanda,RWA,2012,68.331032,Illiterate
+Sao Tome and Principe,STP,2012,90.143097,Literate
+Singapore,SGP,2012,96.36306,Literate
+South Africa,ZAF,2012,93.729469,Literate
+Spain,ESP,2012,97.894539,Literate
+Tanzania,TZA,2012,78.100594,Literate
+Tunisia,TUN,2012,80.21875,Literate
+Turkey,TUR,2012,94.919746,Literate
+Uganda,UGA,2012,70.198219,Illiterate
+United Kingdom,GBR,2012,99.23234,Literate
+United States of America,USA,2012,98.231223,Literate
+Uruguay,URY,2012,98.395943,Literate
+Afghanistan,AFG,2013,38.168041,Illiterate
+Albania,ALB,2013,97.553902,Literate
+Algeria,DZA,2013,79.608398,Literate
+Angola,AGO,2013,68.23122,Illiterate
+Argentina,ARG,2013,96.1233,Literate
+Armenia,ARM,2013,99.768417,Literate
+Aruba,ABW,2013,97.5242,Literate
+Azerbaijan,AZE,2013,99.80526,Literate
+Bahrain,BHR,2013,95.717262,Literate
+Bangladesh,BGD,2013,61.493832,Illiterate
+Belarus,BLR,2013,99.722038,Literate
+Belize,BLZ,2013,82.776817,Literate
+Benin,BEN,2013,38.44714,Illiterate
+Bhutan,BTN,2013,63.906818,Illiterate
+Bolivia,BOL,2013,95.141922,Literate
+Botswana,BWA,2013,88.224411,Literate
+Brazil,BRA,2013,92.586807,Literate
+Brunei,BRN,2013,96.656532,Literate
+Bulgaria,BGR,2013,98.38858,Literate
+Burkina Faso,BFA,2013,37.7467,Illiterate
+Burundi,BDI,2013,85.496094,Literate
+Cambodia,KHM,2013,78.34594,Literate
+Cameroon,CMR,2013,74.98558,Illiterate
+Canada,CAN,2013,98.32131,Literate
+Cape Verde,CPV,2013,88.465424,Literate
+Central African Republic,CAF,2013,36.752609,Illiterate
+Chad,TCD,2013,40.018242,Illiterate
+Chile,CHL,2013,96.627548,Literate
+China,CHN,2013,91.23452,Literate
+Colombia,COL,2013,94.577057,Literate
+Comoros,COM,2013,78.13739,Literate
+Congo,COG,2013,75.123123,Literate
+Costa Rica,CRI,2013,97.647247,Literate
+Cote d'Ivoire,CIV,2013,43.26532,Illiterate
+Croatia,HRV,2013,99.272591,Literate
+Cuba,CUB,2013,99.710716,Literate
+Cyprus,CYP,2013,99.059776,Literate
+Democratic Republic of Congo,COD,2013,77.221672,Literate
+Dominican Republic,DOM,2013,92.465424,Literate
+Ecuador,ECU,2013,94.515472,Literate
+Egypt,EGY,2013,75.842621,Literate
+El Salvador,SLV,2013,87.648216,Literate
+Equatorial Guinea,GNQ,2013,95.195663,Literate
+Eritrea,ERI,2013,73.845253,Illiterate
+Estonia,EST,2013,99.823509,Literate
+Ethiopia,ETH,2013,49.031521,Illiterate
+Gabon,GAB,2013,83.237877,Literate
+Gambia,GMB,2013,55.572762,Illiterate
+Georgia,GEO,2013,99.759621,Literate
+Ghana,GHA,2013,76.575897,Literate
+Greece,GRC,2013,95.29287,Literate
+Guam,GUM,2013,99.78904,Literate
+Guatemala,GTM,2013,79.074211,Literate
+Guinea,GIN,2013,30.47279,Illiterate
+Guinea-Bissau,GNB,2013,59.77285,Illiterate
+Guyana,GUY,2013,87.535316,Literate
+Haiti,HTI,2013,60.68935,Illiterate
+Honduras,HND,2013,88.424583,Literate
+Hong Kong,HKG,2013,98.2,Literate
+Hungary,HUN,2013,99.380882,Literate
+Iceland,ISL,2013,99,Literate
+India,IND,2013,72.225304,Illiterate
+Indonesia,IDN,2013,95.437683,Literate
+Iran,IRN,2013,87.172531,Literate
+Iraq,IRQ,2013,79.721764,Literate
+Italy,ITA,2013,99.015793,Literate
+Jamaica,JAM,2013,88.499901,Literate
+Jordan,JOR,2013,98.014351,Literate
+Kazakhstan,KAZ,2013,99.787849,Literate
+Kenya,KEN,2013,78.023399,Literate
+Kuwait,KWT,2013,96.117706,Literate
+Kyrgyzstan,KGZ,2013,99.50132,Literate
+Laos,LAO,2013,79.867462,Literate
+Latvia,LVA,2013,99.892693,Literate
+Lebanon,LBN,2013,94.051102,Literate
+Lesotho,LSO,2013,79.360931,Literate
+Liberia,LBR,2013,47.60014,Illiterate
+Libya,LBY,2013,90.12311,Literate
+Lithuania,LTU,2013,99.82328,Literate
+Macao,MAC,2013,96.2276,Literate
+Macedonia,MKD,2013,97.843758,Literate
+Madagascar,MDG,2013,64.656303,Illiterate
+Malawi,MWI,2013,65.963829,Illiterate
+Malaysia,MYS,2013,94.636993,Literate
+Maldives,MDV,2013,99.321022,Literate
+Mali,MLI,2013,33.068871,Illiterate
+Malta,MLT,2013,94.066612,Literate
+Marshall Islands,MHL,2013,98.265083,Literate
+Mauritania,MRT,2013,52.123562,Illiterate
+Mauritius,MUS,2013,90.616043,Literate
+Mexico,MEX,2013,94.545593,Literate
+Moldova,MDA,2013,99.244392,Literate
+Mongolia,MNG,2013,98.367638,Literate
+Montenegro,MNE,2013,98.719948,Literate
+Morocco,MAR,2013,71.710548,Illiterate
+Mozambique,MOZ,2013,58.836552,Illiterate
+Myanmar,MMR,2013,93.09005,Literate
+Namibia,NAM,2013,90.820503,Literate
+Nepal,NPL,2013,64.663643,Illiterate
+New Caledonia,NCL,2013,96.93782,Literate
+Nicaragua,NIC,2013,82.471848,Literate
+Niger,NER,2013,12.342341,Illiterate
+Nigeria,NGA,2013,59.568081,Illiterate
+North Korea,PRK,2013,99.999237,Literate
+Oman,OMN,2013,93.971649,Literate
+Pakistan,PAK,2013,56.440311,Illiterate
+Palau,PLW,2013,99.523972,Literate
+Palestine,PSE,2013,96.668037,Literate
+Panama,PAN,2013,95.038231,Literate
+Papua New Guinea,PNG,2013,63.433491,Illiterate
+Paraguay,PRY,2013,95.53611,Literate
+Peru,PER,2013,94.374352,Literate
+Philippines,PHL,2013,96.618027,Literate
+Poland,POL,2013,99.787422,Literate
+Portugal,PRT,2013,95.428108,Literate
+Puerto Rico,PRI,2013,93.329422,Literate
+Qatar,QAT,2013,97.757088,Literate
+Romania,ROU,2013,98.757027,Literate
+Russia,RUS,2013,99.719566,Literate
+Rwanda,RWA,2013,71.2435,Illiterate
+Samoa,WSM,2013,99.015007,Literate
+Sao Tome and Principe,STP,2013,91.747108,Literate
+Saudi Arabia,SAU,2013,94.842369,Literate
+Senegal,SEN,2013,55.624851,Illiterate
+Serbia,SRB,2013,98.002892,Literate
+Seychelles,SYC,2013,95.321083,Literate
+Sierra Leone,SLE,2013,48.4319,Illiterate
+Singapore,SGP,2013,96.774628,Literate
+Slovenia,SVN,2013,99.71476,Literate
+South Africa,ZAF,2013,94.597939,Literate
+South Korea,KOR,2013,98.93,Literate
+South Sudan,SSD,2013,31.97625,Illiterate
+Spain,ESP,2013,98.11451,Literate
+Sri Lanka,LKA,2013,92.614166,Literate
+Sudan,SDN,2013,58.601318,Illiterate
+Suriname,SUR,2013,95.538986,Literate
+Swaziland,SWZ,2013,87.470192,Literate
+Switzerland,CHE,2013,99,Literate
+Syria,SYR,2013,86.303932,Literate
+Tajikistan,TJK,2013,99.781052,Literate
+Tanzania,TZA,2013,80.359497,Literate
+Thailand,THA,2013,93.983017,Literate
+Timor,TLS,2013,64.066139,Illiterate
+Togo,TGO,2013,66.53759,Illiterate
+Tonga,TON,2013,99.397858,Literate
+Trinidad and Tobago,TTO,2013,98.969582,Literate
+Tunisia,TUN,2013,81.054192,Literate
+Turkey,TUR,2013,95.688103,Literate
+Turkmenistan,TKM,2013,99.692932,Literate
+Uganda,UGA,2013,73.809837,Illiterate
+Ukraine,UKR,2013,99.764107,Literate
+United Arab Emirates,ARE,2013,92.986366,Literate
+United Kingdom,GBR,2013,99.23234,Literate
+United States of America,USA,2013,99,Literate
+Uruguay,URY,2013,98.442101,Literate
+Uzbekistan,UZB,2013,99.995193,Literate
+Vanuatu,VUT,2013,85.058678,Literate
+Venezuela,VEN,2013,95.399246,Literate
+Vietnam,VNM,2013,94.514267,Literate
+Yemen,YEM,2013,69.961952,Illiterate
+Zambia,ZMB,2013,85.117264,Literate
+Zimbabwe,ZWE,2013,86.873482,Literate
+Angola,AGO,2014,70.991089,Illiterate
+Argentina,ARG,2014,98.034019,Literate
+Azerbaijan,AZE,2014,99.788986,Literate
+Bangladesh,BGD,2014,60.575218,Illiterate
+Botswana,BWA,2014,87.707512,Literate
+Burkina Faso,BFA,2014,34.599411,Illiterate
+Canada,CAN,2014,99.2132,Literate
+Chad,TCD,2014,39.049671,Illiterate
+Colombia,COL,2014,94.183456,Literate
+Comoros,COM,2014,77.573273,Literate
+Dominican Republic,DOM,2014,91.763771,Literate
+Ecuador,ECU,2014,94.222649,Literate
+Egypt,EGY,2014,73.231231,Literate
+Equatorial Guinea,GNQ,2014,94.956741,Literate
+Eritrea,ERI,2014,72.790489,Illiterate
+Gabon,GAB,2014,82.283798,Literate
+Gambia,GMB,2014,54.387562,Illiterate
+Georgia,GEO,2014,99.752243,Literate
+Greece,GRC,2014,97.532379,Literate
+Guatemala,GTM,2014,81.285896,Literate
+Guinea-Bissau,GNB,2014,58.729321,Illiterate
+Honduras,HND,2014,87.197533,Literate
+Hungary,HUN,2014,99.050117,Literate
+Indonesia,IDN,2014,95.116219,Literate
+Iraq,IRQ,2014,79.5187,Literate
+Jamaica,JAM,2014,88.132248,Literate
+Libya,LBY,2014,90.23112,Literate
+Macedonia,MKD,2014,97.751747,Literate
+Mauritius,MUS,2014,92.474762,Literate
+Mexico,MEX,2014,94.555878,Literate
+Moldova,MDA,2014,99.34346,Literate
+Myanmar,MMR,2014,92.923157,Literate
+New Caledonia,NCL,2014,96.806671,Literate
+Oman,OMN,2014,91.981201,Literate
+Palestine,PSE,2014,96.428421,Literate
+Papua New Guinea,PNG,2014,63.096088,Illiterate
+Paraguay,PRY,2014,94.616722,Literate
+Peru,PER,2014,93.707947,Literate
+Poland,POL,2014,99.774109,Literate
+Qatar,QAT,2014,97.746689,Literate
+Russia,RUS,2014,99.719566,Literate
+Sierra Leone,SLE,2014,47.186241,Illiterate
+Singapore,SGP,2014,96.71666,Literate
+Slovenia,SVN,2014,99.710052,Literate
+South Africa,ZAF,2014,94.1399,Literate
+Spain,ESP,2014,98.093979,Literate
+Syria,SYR,2014,85.915817,Literate
+Tajikistan,TJK,2014,99.76841,Literate
+Trinidad and Tobago,TTO,2014,98.919487,Literate
+Turkey,TUR,2014,95.439629,Literate
+Turkmenistan,TKM,2014,99.672852,Literate
+Ukraine,UKR,2014,99.753471,Literate
+United Kingdom,GBR,2014,99.23234,Literate
+United States of America,USA,2014,99.2123,Literate
+Uruguay,URY,2014,98.435928,Literate
+Uzbekistan,UZB,2014,99.980553,Literate
+Vanuatu,VUT,2014,84.510811,Literate
+Yemen,YEM,2014,68.789421,Illiterate
+Afghanistan,AFG,2015,38.168041,Illiterate
+Albania,ALB,2015,97.553902,Literate
+Algeria,DZA,2015,79.608398,Literate
+Angola,AGO,2015,71.164162,Illiterate
+Argentina,ARG,2015,98.089973,Literate
+Armenia,ARM,2015,99.768417,Literate
+Aruba,ABW,2015,97.5242,Literate
+Azerbaijan,AZE,2015,99.80526,Literate
+Bahrain,BHR,2015,95.717262,Literate
+Bangladesh,BGD,2015,61.493832,Illiterate
+Belarus,BLR,2015,99.722038,Literate
+Belize,BLZ,2015,82.776817,Literate
+Benin,BEN,2015,38.44714,Illiterate
+Bhutan,BTN,2015,63.906818,Illiterate
+Bolivia,BOL,2015,95.141922,Literate
+Botswana,BWA,2015,88.224411,Literate
+Brazil,BRA,2015,92.586807,Literate
+Brunei,BRN,2015,96.656532,Literate
+Bulgaria,BGR,2015,98.38858,Literate
+Burkina Faso,BFA,2015,37.7467,Illiterate
+Burundi,BDI,2015,85.496094,Literate
+Cambodia,KHM,2015,78.34594,Literate
+Cameroon,CMR,2015,74.98558,Illiterate
+Canada,CAN,2015,99,Literate
+Cape Verde,CPV,2015,88.465424,Literate
+Central African Republic,CAF,2015,36.752609,Illiterate
+Chad,TCD,2015,40.018242,Illiterate
+Chile,CHL,2015,96.627548,Literate
+China,CHN,2015,92.45235,Literate
+Colombia,COL,2015,94.577057,Literate
+Comoros,COM,2015,78.13739,Literate
+Congo,COG,2015,79.311172,Literate
+Costa Rica,CRI,2015,97.647247,Literate
+Cote d'Ivoire,CIV,2015,43.26532,Illiterate
+Croatia,HRV,2015,99.272591,Literate
+Cuba,CUB,2015,99.710716,Literate
+Cyprus,CYP,2015,99.059776,Literate
+Democratic Republic of Congo,COD,2015,77.221672,Literate
+Dominican Republic,DOM,2015,92.465424,Literate
+Ecuador,ECU,2015,94.515472,Literate
+Egypt,EGY,2015,75.842621,Literate
+El Salvador,SLV,2015,87.648216,Literate
+Equatorial Guinea,GNQ,2015,95.195663,Literate
+Eritrea,ERI,2015,73.845253,Illiterate
+Estonia,EST,2015,99.823509,Literate
+Ethiopia,ETH,2015,49.031521,Illiterate
+Gabon,GAB,2015,83.237877,Literate
+Gambia,GMB,2015,55.572762,Illiterate
+Georgia,GEO,2015,99.759621,Literate
+Ghana,GHA,2015,76.575897,Literate
+Greece,GRC,2015,95.29287,Literate
+Guam,GUM,2015,99.78904,Literate
+Guatemala,GTM,2015,79.074211,Literate
+Guinea,GIN,2015,30.47279,Illiterate
+Guinea-Bissau,GNB,2015,59.77285,Illiterate
+Guyana,GUY,2015,87.535316,Literate
+Haiti,HTI,2015,60.68935,Illiterate
+Honduras,HND,2015,88.424583,Literate
+Hong Kong,HKG,2015,98.2,Literate
+Hungary,HUN,2015,99.380882,Literate
+Iceland,ISL,2015,99,Literate
+India,IND,2015,72.225304,Illiterate
+Indonesia,IDN,2015,95.437683,Literate
+Iran,IRN,2015,87.172531,Literate
+Iraq,IRQ,2015,79.721764,Literate
+Italy,ITA,2015,99.015793,Literate
+Jamaica,JAM,2015,88.499901,Literate
+Jordan,JOR,2015,98.014351,Literate
+Kazakhstan,KAZ,2015,99.787849,Literate
+Kenya,KEN,2015,78.023399,Literate
+Kuwait,KWT,2015,96.117706,Literate
+Kyrgyzstan,KGZ,2015,99.50132,Literate
+Laos,LAO,2015,79.867462,Literate
+Latvia,LVA,2015,99.892693,Literate
+Lebanon,LBN,2015,94.051102,Literate
+Lesotho,LSO,2015,79.360931,Literate
+Liberia,LBR,2015,47.60014,Illiterate
+Libya,LBY,2015,91.38887,Literate
+Lithuania,LTU,2015,99.82328,Literate
+Macao,MAC,2015,96.2276,Literate
+Macedonia,MKD,2015,97.843758,Literate
+Madagascar,MDG,2015,64.656303,Illiterate
+Malawi,MWI,2015,65.963829,Illiterate
+Malaysia,MYS,2015,94.636993,Literate
+Maldives,MDV,2015,99.321022,Literate
+Mali,MLI,2015,33.068871,Illiterate
+Malta,MLT,2015,94.066612,Literate
+Marshall Islands,MHL,2015,98.265083,Literate
+Mauritania,MRT,2015,52.123562,Illiterate
+Mauritius,MUS,2015,90.616043,Literate
+Mexico,MEX,2015,94.545593,Literate
+Moldova,MDA,2015,99.244392,Literate
+Mongolia,MNG,2015,98.367638,Literate
+Montenegro,MNE,2015,98.719948,Literate
+Morocco,MAR,2015,71.710548,Illiterate
+Mozambique,MOZ,2015,58.836552,Illiterate
+Myanmar,MMR,2015,93.09005,Literate
+Namibia,NAM,2015,90.820503,Literate
+Nepal,NPL,2015,64.663643,Illiterate
+New Caledonia,NCL,2015,96.93782,Literate
+Nicaragua,NIC,2015,82.471848,Literate
+Niger,NER,2015,19.1026,Illiterate
+Nigeria,NGA,2015,59.568081,Illiterate
+North Korea,PRK,2015,99.999237,Literate
+Oman,OMN,2015,93.971649,Literate
+Pakistan,PAK,2015,56.440311,Illiterate
+Palau,PLW,2015,99.523972,Literate
+Palestine,PSE,2015,96.668037,Literate
+Panama,PAN,2015,95.038231,Literate
+Papua New Guinea,PNG,2015,63.433491,Illiterate
+Paraguay,PRY,2015,95.53611,Literate
+Peru,PER,2015,94.374352,Literate
+Philippines,PHL,2015,96.618027,Literate
+Poland,POL,2015,99.787422,Literate
+Portugal,PRT,2015,95.428108,Literate
+Puerto Rico,PRI,2015,93.329422,Literate
+Qatar,QAT,2015,97.757088,Literate
+Romania,ROU,2015,98.757027,Literate
+Russia,RUS,2015,99.719566,Literate
+Rwanda,RWA,2015,71.2435,Illiterate
+Samoa,WSM,2015,99.015007,Literate
+Sao Tome and Principe,STP,2015,91.747108,Literate
+Saudi Arabia,SAU,2015,94.842369,Literate
+Senegal,SEN,2015,55.624851,Illiterate
+Serbia,SRB,2015,98.002892,Literate
+Seychelles,SYC,2015,95.321083,Literate
+Sierra Leone,SLE,2015,48.4319,Illiterate
+Singapore,SGP,2015,96.774628,Literate
+Slovenia,SVN,2015,99.71476,Literate
+South Africa,ZAF,2015,94.597939,Literate
+South Korea,KOR,2015,98.93,Literate
+South Sudan,SSD,2015,31.97625,Illiterate
+Spain,ESP,2015,98.11451,Literate
+Sri Lanka,LKA,2015,92.614166,Literate
+Sudan,SDN,2015,58.601318,Illiterate
+Suriname,SUR,2015,95.538986,Literate
+Swaziland,SWZ,2015,87.470192,Literate
+Syria,SYR,2015,86.303932,Literate
+Tajikistan,TJK,2015,99.781052,Literate
+Tanzania,TZA,2015,80.359497,Literate
+Thailand,THA,2015,93.983017,Literate
+Timor,TLS,2015,64.066139,Illiterate
+Togo,TGO,2015,66.53759,Illiterate
+Tonga,TON,2015,99.397858,Literate
+Trinidad and Tobago,TTO,2015,98.969582,Literate
+Tunisia,TUN,2015,81.054192,Literate
+Turkey,TUR,2015,95.688103,Literate
+Turkmenistan,TKM,2015,99.692932,Literate
+Uganda,UGA,2015,73.809837,Illiterate
+Ukraine,UKR,2015,99.764107,Literate
+United Arab Emirates,ARE,2015,92.986366,Literate
+United Kingdom,GBR,2015,99.23234,Literate
+United Kingdom,GBR,2015,99.23234,Literate
+United States of America,USA,2015,99,Literate
+Uruguay,URY,2015,98.442101,Literate
+Uzbekistan,UZB,2015,99.995193,Literate
+Vanuatu,VUT,2015,85.058678,Literate
+Venezuela,VEN,2015,95.399246,Literate
+Vietnam,VNM,2015,94.514267,Literate
+Yemen,YEM,2015,69.961952,Illiterate
+Zambia,ZMB,2015,85.117264,Literate
+Zimbabwe,ZWE,2015,86.873482,Literate
+United States of America,USA,2016,85.233455,Literate
